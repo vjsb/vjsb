@@ -4,5 +4,17 @@ Habilidades: Java, Spring, JavaScript, HTML, CSS, Angular e SQL.
 
 Ferramentas: Eclipse, STS, VSCode, IntelliJ, Git and GitHub.
 
+
+
+
+
+
+
+
+
+
+
+
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsb&hide=html&layout=compact&theme=DRACULA)](https://github.com/vjsb/)
 
