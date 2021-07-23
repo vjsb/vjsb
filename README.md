@@ -1,6 +1,6 @@
-Olá, meu nome é João Victor. Sou Desenvolvedor FullStack.
+Olá, meu nome é João Victor. Sou Desenvolvedor Back-End.
 
-Habilidades: Java, Spring, JavaScript, HTML, CSS, Angular e SQL.
+Habilidades: Java, Spring, Golang e SQL.
 
 Ferramentas: Eclipse, STS, VSCode, IntelliJ, Git and GitHub.
 
