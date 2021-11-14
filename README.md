@@ -1,5 +1,4 @@
-Olá, meu nome é João Victor. Sou Desenvolvedor Back-End.
-
+## Ola eu sou João Victor 😊
 Habilidades: Java, Spring, Golang e SQL.
 
 Ferramentas: Eclipse, STS, VSCode, IntelliJ, Git and GitHub.
