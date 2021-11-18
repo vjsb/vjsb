@@ -48,4 +48,4 @@
     </a>
 </p>
   
-  ![Snake animation](https://github.com/vjsb/vjsb/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/vjsb/vjsb/blob/output/github-contribution-grid-snake.svg)-->
