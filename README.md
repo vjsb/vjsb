@@ -1,7 +1,7 @@
 ## Olá !! Eu sou o João <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p> - 💻 Engenheiro de Software Jr no Itaú Unibanco</p>
-<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, API, HTML, CSS, JavaScript, Angular, AWS, Golang e Docker . </p>
+<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, HTML, CSS, JavaScript, Node.js, SQL/NoSQL, AWS, Golang e Docker . </p>
 <p> - 📩 Contate-me no email: joao.victorcoriolano@gmail.com </p>
 
 <div align="center">
