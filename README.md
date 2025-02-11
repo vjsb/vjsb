@@ -1,6 +1,6 @@
 ## Olá !! Eu sou o João <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p> - 💻 Engenheiro de Software Jr no Itaú Unibanco</p>
+<p> - 💻 Engenheiro de Software no Itaú Unibanco</p>
 <p> - 📩 Contate-me no email: joao.victorcoriolano@gmail.com </p>
 
 <div align="center">
